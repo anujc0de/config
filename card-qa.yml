@@ -1,0 +1,11 @@
+
+build:
+  version: "2.0"
+card:
+  message: "welcome to eazybank card related with qa"
+  contactDetails:
+    name: "anuj"
+    email: "anuj@gmail.com"
+  onCallSupport:
+    - 7985689898
+    - 5898656565

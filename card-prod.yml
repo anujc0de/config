@@ -1,0 +1,10 @@
+build:
+  version: "1.0"
+card:
+  message: "welcome to eazybank card related with prod"
+  contactDetails:
+    name: "anuj"
+    email: "anuj@gmail.com"
+  onCallSupport:
+    - 7985689898
+    - 5898656565

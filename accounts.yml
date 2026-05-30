@@ -1,0 +1,10 @@
+build:
+  version: "3.0"
+accounts:
+  message: "welcome to eazybank account with local"
+  contactDetails:
+    name: "anuj"
+    email: "anuj@gmail.com"
+  onCallSupport:
+    - 7985689898
+    - 5898656565

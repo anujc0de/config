@@ -1,0 +1,11 @@
+
+build:
+  version: "2.0"
+loan:
+  message: "welcome to eazybank laon related with qa"
+  contactDetails:
+    name: "anuj"
+    email: "anuj@gmail.com"
+  onCallSupport:
+    - 7985689898
+    - 5898656565
