@@ -1,7 +1,7 @@
 build:
   version: "1.0"
 card:
-  message: "welcome to eazybank card related with prod"
+  message: "welcome to eazybank card related with production"
   contactDetails:
     name: "anuj"
     email: "anuj@gmail.com"
