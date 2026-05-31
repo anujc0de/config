@@ -1,7 +1,7 @@
 build:
   version: "1.0"
 loan:
-  message: "welcome to eazybank loan related with prod"
+  message: "welcome to eazybank loan related with prodcution"
   contactDetails:
     name: "anuj"
     email: "anuj@gmail.com"
