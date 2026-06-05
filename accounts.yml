@@ -1,7 +1,7 @@
 build:
   version: "3.0"
 accounts:
-  message: "welcome to eazybank account with local remote"
+  message: "welcome to eazybank account with local "
   contactDetails:
     name: "anuj"
     email: "anuj@gmail.com"
